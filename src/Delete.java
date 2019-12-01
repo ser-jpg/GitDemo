@@ -10,6 +10,9 @@ public class Delete {
         System.out.println("*"+"             *");
         System.out.println("* * * * * * * *");
 
-
+        System.out.println("sacma bir odev");
+        System.out.println("sacma bir odev");
+        System.out.println("sacma bir odev");
     }
+
 }

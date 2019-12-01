@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ae19940-a9e9-4de4-a4ed-eb477f52e343" name="Default Changelist" comment="" />
+    <list default="true" id="5ae19940-a9e9-4de4-a4ed-eb477f52e343" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Delete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Delete.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Delete.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+            <state relative-caret-position="238">
+              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -39,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/src/BootCampJava/CesitliBasitOrnekler/SoruKutuphanesi/Polimorfizm/LastLetter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -53,7 +57,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/comparator/BuyuktenKucuge.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -67,9 +71,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/Scanner.java">
+        <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/Scanner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-607">
+            <state relative-caret-position="26248">
               <caret line="1605" column="30" selection-start-line="1605" selection-start-column="22" selection-end-line="1605" selection-end-column="30" />
             </state>
           </provider>
@@ -91,6 +95,9 @@
       <find>comparable</find>
       <find>nextline</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -144,8 +151,8 @@
         <option value="$PROJECT_DIR$/src/exceptionYakalama/Propagation.java" />
         <option value="$PROJECT_DIR$/src/exceptionYakalama/KendiExceptionClass.java" />
         <option value="$PROJECT_DIR$/src/MentorQuestions/Uniqueletters.java" />
-        <option value="$PROJECT_DIR$/src/Delete.java" />
         <option value="$PROJECT_DIR$/src/BootCampJava/CesitliBasitOrnekler/SoruKutuphanesi/Polimorfizm/LastLetter.java" />
+        <option value="$PROJECT_DIR$/src/Delete.java" />
       </list>
     </option>
   </component>
@@ -163,60 +170,20 @@
         <subPane>
           <expand>
             <path>
-              <item name="serkan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="serkan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="serkan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="serkan" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="serkan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="serkan" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BootCampJava" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="serkan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="serkan" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BootCampJava" type="462c0819:PsiDirectoryNode" />
-              <item name="CesitliBasitOrnekler" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="serkan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="serkan" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BootCampJava" type="462c0819:PsiDirectoryNode" />
-              <item name="CesitliBasitOrnekler" type="462c0819:PsiDirectoryNode" />
-              <item name="SoruKutuphanesi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="serkan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="serkan" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BootCampJava" type="462c0819:PsiDirectoryNode" />
-              <item name="Composition" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="serkan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="serkan" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BootCampJava" type="462c0819:PsiDirectoryNode" />
-              <item name="iterator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="serkan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="GitDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitDemo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -316,7 +283,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1292" height="686" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15665585" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24918832" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -400,14 +367,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/collectionFram/SiralamaComparable.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/String.java">
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="133" column="43" lean-forward="true" selection-start-line="133" selection-start-column="37" selection-end-line="133" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Comparable.java">
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Comparable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
@@ -736,24 +703,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Delete.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-607">
-          <caret line="1605" column="30" selection-start-line="1605" selection-start-column="22" selection-end-line="1605" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BootCampJava/CesitliBasitOrnekler/SoruKutuphanesi/Polimorfizm/LastLetter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -761,6 +714,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26248">
+          <caret line="1605" column="30" selection-start-line="1605" selection-start-column="22" selection-end-line="1605" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -772,6 +732,13 @@
             <element signature="e#170#171#0" expanded="true" />
             <element signature="e#210#211#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Delete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
         </state>
       </provider>
     </entry>
