@@ -22,6 +22,9 @@ public class Delete {
         System.out.println("please eneter two number");
         int num1=scanner.nextInt();
         int num2=scanner.nextInt();
+
+        System.out.println(num1);
+        System.out.println(num2);
         if(num1>num2){
 
             System.out.println("num1 is"+num1+"max");
